@@ -1,0 +1,1 @@
+# variography_with_local_directions
