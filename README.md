@@ -16,7 +16,7 @@ The main difference of this approach is that the angular tolerances for experime
 
 This is not a Python library, so the repository files just needs to be downloaded and saved in the same folder. But before running it, some dependencies must be installed. First of all, Python 3 should be installed (see [here](https://www.python.org/downloads/)). Then the following libraries must be installed:
 
-```python
+```
 pip install numpy pandas scikit-learn matplotlib PySimpleGUI
 ```
 
